@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us</title>  
+</head>
+
+<body>
+     <main>
+        <div class="Main">
+        <div class="header">
+            <h1>Contact Us</h1>
+            <p> I would <b>love</b> to hear from you!
+                </br>Let me know what you think</p>
+            
+        </div>
+
+        <div class="form">
+            <form>
+                <input type="text" name="name" placeholder="Name" required>
+                <input type="email" name="email" value="" placeholder="Email" required>
+                <textarea name="message"  id="field" rows="4" cols="50" value="" placeholder="Write your message here" ></textarea>
+                <button>Let's Talk</button>
+            </form>
+        </div>
+        </div>
+</main>
+    
+</body>
+</html>
